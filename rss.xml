@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[HCA_TEST]]></title>
         <description><![CDATA[HCA_TEST]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hca_test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 18:46:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 18:46:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hca_test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photos from the 2014 Twilight in the Park]]></title>
+            <description><![CDATA[<article><h1>Photos from the 2014 Twilight in the Park</h1><p>Here are some photos from our 2014 "Twilight in the Park - Haverford Neighbor's Night Out." It was the 7th annual event and was enjoyed by all. This slideshow requires JavaScript. Gallery This entry was posted in Events, Gallery, Photos. Bookmark the permalink.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1cbb2d86a964aca0ec063bace356c039438f82.jpg"></article>]]></description>
+            <link>http://haverfordcivicassociation.com/2014/10/13/photos-from-the-2014-twilight-in-the-park/</link>
+            <guid isPermaLink="false">344bf8e3-8245-4629-b112-d8e41b59691d</guid>
+            <pubDate>Fri, 08 Jan 2016 18:46:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Past Meeting Minutes]]></title>
-            <description><![CDATA[<article><h1>Past Meeting Minutes</h1><p>April 8, 2014 (PDF) March 11, 2014 (PDF) February 11, 2014 (PDF) November 12, 2013 (PDF) October 8, 2013 (PDF) May 14, 2013 (PDF) April 9, 2013 (PDF) March 12, 2013 (PDF) February 12, 2013 (PDF) January 8, 2013 (PDF) December 11, 2012 (PDF) October 9, 2012 (PDF) May 8, 2012 (PDF) April 10, 2012...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1cbb2d86a964aca0ec063bace356c039438f82.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Past Meeting Minutes</h1><p>April 8, 2014 (PDF) March 11, 2014 (PDF) February 11, 2014 (PDF) November 12, 2013 (PDF) October 8, 2013 (PDF) May 14, 2013 (PDF) April 9, 2013 (PDF) March 12, 2013 (PDF) February 12, 2013 (PDF) January 8, 2013 (PDF) December 11, 2012 (PDF) October 9, 2012 (PDF) May 8, 2012 (PDF) April 10, 2012...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac125ca709c7d748483baa47755001c94e0f9b3.jpg"></article>]]></description>
             <link>http://haverfordcivicassociation.com/past-meeting-minutes/</link>
             <guid isPermaLink="false">2b761148-0afa-4913-9720-88fb0ad89f14</guid>
             <pubDate>Fri, 08 Jan 2016 18:46:07 GMT</pubDate>
