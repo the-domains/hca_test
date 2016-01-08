@@ -1,0 +1,28 @@
+name: HCA_TEST
+favicon: null
+layout_spectrum: 0.7115855449810624
+typography_spectrum: 0.8509678870905191
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9258404520805925
+  lightness: 0.8745245563331991
+  saturation: 0.21077572368085384
+  rhythmicContrast: 0.6377219611313194
+purpose: []
